@@ -1,0 +1,5 @@
+{
+  "name": "Offline eBook Converter",
+  "description": "A secure, offline-only tool to convert PDF, Word, and HTML documents into Kindle-compatible files using local browser processing.",
+  "requestFramePermissions": []
+}
